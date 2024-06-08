@@ -1,1 +1,2 @@
-'git clone https://github.com/yardproject/caca.git && cd caca && chmod +x muri.sh && ./muri.sh'
+# How To Install?
+`git clone https://github.com/yardproject/caca.git && cd caca && chmod +x muri.sh && ./muri.sh`
