@@ -9,11 +9,11 @@ NC='\033[0m' # No Color
 
 # Header
 echo -e "${YELLOW}"
-echo "===================================="
-echo "      PEMBAHARUAN MANUAL            "
-echo "          CA Certificate            "
-echo "            88NUMB || AtaLioMego   "
-echo "===================================="
+echo -e "===================================="
+echo -e "        PEMBAHARUAN MANUAL          "
+echo -e "          CA Certificate            "
+echo -e "       88NUMB || AtaLioMego         "
+echo -e "===================================="
 echo -e "${NC}"
 
 
